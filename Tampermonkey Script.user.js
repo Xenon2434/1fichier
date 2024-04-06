@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name        	1fichier Copy Links
-// @match       	https://*.1fichier.com/*
+// @match           https://*.1fichier.com/end.pl*
 // @icon        	https://www.google.com/s2/favicons?sz=64&domain=1fichier.com
 // @require	    	https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @require     	https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js
 // @resource    	IMPORTED_CSS https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css
-// @resource		  https://fonts.googleapis.com/icon?family=Roboto;
-// @import			  url(https://fonts.googleapis.com/icon?family=Roboto);
+// @resource		https://fonts.googleapis.com/icon?family=Roboto;
+// @import			url(https://fonts.googleapis.com/icon?family=Roboto);
 // @grant       	GM_getResourceText
 // @grant       	GM_addStyle
-// @font-face 	  {font-family: 'Roboto'; src: url('https://fonts.googleapis.com/icon?family=Roboto'); }
+// @font-face 	    {font-family: 'Roboto'; src: url('https://fonts.googleapis.com/icon?family=Roboto'); }
 // ==/UserScript==
 
 const my_css = GM_getResourceText("IMPORTED_CSS");
