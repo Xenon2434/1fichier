@@ -9,7 +9,7 @@
 // @import		url(https://fonts.googleapis.com/icon?family=Roboto);
 // @grant       	GM_getResourceText
 // @grant       	GM_addStyle
-// @font-face 	    {font-family: 'Roboto'; src: url('https://fonts.googleapis.com/icon?family=Roboto'); }
+// @font-face 	        {font-family: 'Roboto'; src: url('https://fonts.googleapis.com/icon?family=Roboto'); }
 // ==/UserScript==
 
 const my_css = GM_getResourceText("IMPORTED_CSS");
