@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        	1fichier Copy Links
-// @match           https://*.1fichier.com/end.pl*
+// @match               https://*.1fichier.com/end.pl*
 // @icon        	https://www.google.com/s2/favicons?sz=64&domain=1fichier.com
 // @require	    	https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @require     	https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js
